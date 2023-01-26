@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PubsubApplication {
+public class PubSubApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PubsubApplication.class, args);
+		SpringApplication.run(PubSubApplication.class, args);
 	}
 
 }
